@@ -67,5 +67,5 @@ This project is licensed under the MIT License.
 ## Getting Started
 
 1. **Clone the Repository:
-   git clone https://github.com/your-username/SAM.git
+   git clone https://github.com/Nkambwe/SAM.git
    cd SAM
